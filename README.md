@@ -1,1 +1,1 @@
-# saved_model program Bangkit Capstone Project
+# saved_model Bangkit Capstone Project
