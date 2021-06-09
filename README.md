@@ -1,1 +1,1 @@
-# saved_model Bangkit Capstone Project
+Hasil training model Mobilenet + Dense & Dropout
